@@ -446,6 +446,697 @@
         "name": "sprites/itens/shots/shot_green_4.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/tiles/tile_01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/tiles/tile_01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/tiles/tile_02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/tiles/tile_02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/tiles/tile_03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/tiles/tile_03.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/tiles/tile_04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/tiles/tile_04.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/tiles/tile_05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/tiles/tile_05.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/Robot_Scorp.gif",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/Robot_Scorp.gif",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp14.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp17.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp18.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp19.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp20.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/scorp6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/scorp6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/orb_of_destruction2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/orb_of_destruction2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/orb_of_destruction1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/orb_of_destruction1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/orb_of_destruction3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/orb_of_destruction3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/planta15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/planta15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/planta12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/planta12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/planta5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/planta5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/planta10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/planta10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/planta117.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/planta117.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/planta4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/planta4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/planta11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/planta11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/planta9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/planta9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/planta6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/planta6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/planta2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/planta2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/planta8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/planta8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/planta1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/planta1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/planta13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/planta13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/planta16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/planta16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/planta7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/planta7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/planta14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/planta14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1-12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1-13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1-14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1-15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/plat1-16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/plat1-16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/background/back_01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/background/back_01.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/background/back_02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/background/back_02.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "music/Героическая минорная.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "music/Героическая минорная.mp3",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/gui/icon_life.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/gui/icon_life.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/explosion1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/explosion1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/explosion3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/explosion3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/explosion5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/explosion5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/explosion2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/explosion2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/explosion6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/explosion6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/scorpion/explosion4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/scorpion/explosion4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/gui/icon_med.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/gui/icon_med.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/w_bot/w_dead_01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/w_bot/w_dead_01.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -478,7 +1169,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1
+        "zoomFactor": 1.114
       },
       "objectsGroups": [
         {
@@ -486,6 +1177,9 @@
           "objects": [
             {
               "name": "glob"
+            },
+            {
+              "name": "scorpion"
             }
           ]
         }
@@ -544,7 +1238,7 @@
           "layer": "",
           "locked": false,
           "name": "plataform3",
-          "width": 196.157,
+          "width": 197,
           "x": 1184.12,
           "y": 221.659,
           "zOrder": 4,
@@ -620,8 +1314,8 @@
           "locked": false,
           "name": "playerSprite",
           "width": 0,
-          "x": 23.3837,
-          "y": 128.746,
+          "x": 74,
+          "y": 195,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -843,111 +1537,6 @@
           "height": 29,
           "layer": "",
           "locked": false,
-          "name": "NewObject",
-          "width": 27,
-          "x": 730,
-          "y": 264,
-          "zOrder": 26,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 25,
-          "layer": "",
-          "locked": false,
-          "name": "NewObject",
-          "width": 28,
-          "x": 860,
-          "y": 265,
-          "zOrder": 27,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 32,
-          "layer": "",
-          "locked": false,
-          "name": "NewObject",
-          "width": 32,
-          "x": 1001,
-          "y": 266,
-          "zOrder": 28,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 27,
-          "layer": "",
-          "locked": false,
-          "name": "NewObject",
-          "width": 17,
-          "x": 1645,
-          "y": 151,
-          "zOrder": 29,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 22,
-          "layer": "",
-          "locked": false,
-          "name": "NewObject",
-          "width": 18,
-          "x": 2231,
-          "y": 268,
-          "zOrder": 31,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 18,
-          "layer": "",
-          "locked": false,
-          "name": "NewObject",
-          "width": 21,
-          "x": 2403,
-          "y": 271,
-          "zOrder": 32,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 26,
-          "layer": "",
-          "locked": false,
-          "name": "NewObject",
-          "width": 22,
-          "x": 2573,
-          "y": 265,
-          "zOrder": 33,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 29,
-          "layer": "",
-          "locked": false,
           "name": "plataform4",
           "width": 8987,
           "x": 3337,
@@ -971,9 +1560,1379 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 82,
+          "layer": "",
+          "locked": false,
+          "name": "plataform2",
+          "width": 152,
+          "x": 3678,
+          "y": 254,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform3",
+          "width": 152,
+          "x": 3678,
+          "y": 223,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 147,
+          "layer": "",
+          "locked": false,
+          "name": "plataform2",
+          "width": 121,
+          "x": 3947.27,
+          "y": 190.3,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform3",
+          "width": 121,
+          "x": 3947,
+          "y": 161,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform4",
+          "width": 102,
+          "x": 4216,
+          "y": 174,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform3",
+          "width": 102,
+          "x": 4216,
+          "y": 145,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "scorpion",
+          "width": 0,
+          "x": 4609,
+          "y": 253,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "scorpion",
+          "width": 0,
+          "x": 3716,
+          "y": 172,
+          "zOrder": 43,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "left",
+          "width": 0,
+          "x": 3815,
+          "y": 190,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "dir",
+          "width": 0,
+          "x": 3652,
+          "y": 191,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "dir",
+          "width": 0,
+          "x": 4121,
+          "y": 271,
+          "zOrder": 46,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "left",
+          "width": 0,
+          "x": 4757,
+          "y": 271,
+          "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "dir",
+          "width": 0,
+          "x": 4187,
+          "y": 112,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "left",
+          "width": 0,
+          "x": 4312,
+          "y": 111,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "glob",
+          "width": 0,
+          "x": 4227,
+          "y": 97,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform4",
+          "width": 102,
+          "x": 4216,
+          "y": 174,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform4",
+          "width": 102,
+          "x": 4216,
+          "y": 174,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform3",
+          "width": 102,
+          "x": 4785,
+          "y": 171,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 137,
+          "layer": "",
+          "locked": false,
+          "name": "plataform4",
+          "width": 102,
+          "x": 4785,
+          "y": 202,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform5",
+          "width": 64,
+          "x": 5117,
+          "y": 218,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform5",
+          "width": 63,
+          "x": 5253,
+          "y": 171,
+          "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 249,
+          "layer": "",
+          "locked": false,
+          "name": "plataform2",
+          "width": 157,
+          "x": 5437,
+          "y": 88,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform3",
+          "width": 157,
+          "x": 5437,
+          "y": 59,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 72,
+          "layer": "",
+          "locked": false,
+          "name": "plataform2",
+          "width": 119,
+          "x": 5770,
+          "y": 131,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform3",
+          "width": 119,
+          "x": 5770,
+          "y": 100,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "dir",
+          "width": 0,
+          "x": 5711.07,
+          "y": 268.084,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "left",
+          "width": 0,
+          "x": 6342,
+          "y": 272,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "glob",
+          "width": 0,
+          "x": 5927,
+          "y": 255,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "scorpion",
+          "width": 0,
+          "x": 6116,
+          "y": 255,
+          "zOrder": 63,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "left",
+          "width": 0,
+          "x": 5396,
+          "y": 272,
+          "zOrder": 64,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "dir",
+          "width": 0,
+          "x": 4895,
+          "y": 264,
+          "zOrder": 65,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "glob",
+          "width": 0,
+          "x": 5041,
+          "y": 250,
+          "zOrder": 66,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 97,
+          "layer": "",
+          "locked": false,
+          "name": "plataform4",
+          "width": 209,
+          "x": 6430,
+          "y": 241,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform3",
+          "width": 209,
+          "x": 6430,
+          "y": 209,
+          "zOrder": 68,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 136,
+          "layer": "",
+          "locked": false,
+          "name": "plataform2",
+          "width": 248,
+          "x": 6776.44,
+          "y": 199.169,
+          "zOrder": 69,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform3",
+          "width": 249,
+          "x": 6776,
+          "y": 173,
+          "zOrder": 68,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "dir",
+          "width": 0,
+          "x": 6428,
+          "y": 177,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "left",
+          "width": 0,
+          "x": 6605,
+          "y": 177,
+          "zOrder": 71,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "glob",
+          "width": 0,
+          "x": 6857,
+          "y": 118,
+          "zOrder": 72,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "dir",
+          "width": 0,
+          "x": 6639,
+          "y": 272,
+          "zOrder": 73,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "left",
+          "width": 0,
+          "x": 6742.48,
+          "y": 270.12,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "dir",
+          "width": 0,
+          "x": 7004,
+          "y": 275,
+          "zOrder": 75,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "left",
+          "width": 0,
+          "x": 7317,
+          "y": 278,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "scorpion",
+          "width": 0,
+          "x": 6525.19,
+          "y": 157.97,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "planta",
+          "width": 0,
+          "x": 3475,
+          "y": 257,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "planta",
+          "width": 0,
+          "x": 4566,
+          "y": 175,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "planta",
+          "width": 0,
+          "x": 5226,
+          "y": 257,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "planta",
+          "width": 0,
+          "x": 5817,
+          "y": 53,
+          "zOrder": 81,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "planta",
+          "width": 0,
+          "x": 7531,
+          "y": 258,
+          "zOrder": 82,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 362,
+          "layer": "background",
+          "locked": false,
+          "name": "backgtound",
+          "width": 12851,
+          "x": -649,
+          "y": -1,
+          "zOrder": 84,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 359,
+          "layer": "fore",
+          "locked": false,
+          "name": "back2",
+          "width": 12851,
+          "x": -667,
+          "y": -2,
+          "zOrder": 91,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform5",
+          "width": 129,
+          "x": 4524,
+          "y": 222,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 61,
+          "layer": "gui",
+          "locked": false,
+          "name": "head",
+          "width": 61,
+          "x": 3,
+          "y": -7,
+          "zOrder": 93,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 31,
+          "layer": "gui",
+          "locked": false,
+          "name": "life",
+          "width": 32,
+          "x": 68,
+          "y": 23,
+          "zOrder": 94,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
+        {
+          "name": "playerSprite",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "jump",
+              "value": "1"
+            },
+            {
+              "name": "jumpCount",
+              "value": "0"
+            },
+            {
+              "name": "life",
+              "value": "3"
+            }
+          ],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "roundCoordinates": false,
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "parado",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "w_idle_02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28.5,
+                            "y": 26
+                          },
+                          {
+                            "x": 62.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 70.5,
+                            "y": 104
+                          },
+                          {
+                            "x": 25.5,
+                            "y": 103
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "w_idle_01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28.5,
+                            "y": 26
+                          },
+                          {
+                            "x": 62.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 70.5,
+                            "y": 104
+                          },
+                          {
+                            "x": 25.5,
+                            "y": 103
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "w_idle_03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28.5,
+                            "y": 26
+                          },
+                          {
+                            "x": 62.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 70.5,
+                            "y": 104
+                          },
+                          {
+                            "x": 25.5,
+                            "y": 103
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "andando",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "w_walk_03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28.5,
+                            "y": 26
+                          },
+                          {
+                            "x": 62.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 70.5,
+                            "y": 104
+                          },
+                          {
+                            "x": 25.5,
+                            "y": 103
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "w_walk_02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28.5,
+                            "y": 26
+                          },
+                          {
+                            "x": 62.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 70.5,
+                            "y": 104
+                          },
+                          {
+                            "x": 25.5,
+                            "y": 103
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "w_walk_04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28.5,
+                            "y": 26
+                          },
+                          {
+                            "x": 62.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 70.5,
+                            "y": 104
+                          },
+                          {
+                            "x": 25.5,
+                            "y": 103
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "w_walk_01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28.5,
+                            "y": 26
+                          },
+                          {
+                            "x": 62.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 70.5,
+                            "y": 104
+                          },
+                          {
+                            "x": 25.5,
+                            "y": 103
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "pulando",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "w_jump_01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28.5,
+                            "y": 26
+                          },
+                          {
+                            "x": 62.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 70.5,
+                            "y": 104
+                          },
+                          {
+                            "x": 25.5,
+                            "y": 103
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "caindo",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "w_fall_01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28.5,
+                            "y": 26
+                          },
+                          {
+                            "x": 62.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 70.5,
+                            "y": 104
+                          },
+                          {
+                            "x": 25.5,
+                            "y": 103
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "shot",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/w_bot/w_shot_01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28.5,
+                            "y": 26
+                          },
+                          {
+                            "x": 62.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 70.5,
+                            "y": 104
+                          },
+                          {
+                            "x": 25.5,
+                            "y": 103
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/w_bot/w_shot_02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28.5,
+                            "y": 26
+                          },
+                          {
+                            "x": 62.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 70.5,
+                            "y": 104
+                          },
+                          {
+                            "x": 25.5,
+                            "y": 103
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/w_bot/w_shot_03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28.5,
+                            "y": 26
+                          },
+                          {
+                            "x": 62.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 70.5,
+                            "y": 104
+                          },
+                          {
+                            "x": 25.5,
+                            "y": 103
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "hit",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/w_bot/w_dead_01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
         {
           "height": 32,
           "name": "platafom1",
@@ -1054,305 +3013,7 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
-          "behaviors": [
-            {
-              "canBeGrabbed": true,
-              "name": "Platform",
-              "platformType": "NormalPlatform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "yGrabOffset": 0
-            }
-          ]
-        },
-        {
-          "name": "playerSprite",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [
-            {
-              "acceleration": 1500,
-              "canGrabPlatforms": false,
-              "deceleration": 1500,
-              "gravity": 1000,
-              "ignoreDefaultControls": false,
-              "jumpSpeed": 600,
-              "maxFallingSpeed": 700,
-              "maxSpeed": 250,
-              "name": "PlatformerObject",
-              "roundCoordinates": false,
-              "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "xGrabTolerance": 10,
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "parado",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.2,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "w_idle_02.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "w_idle_01.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "w_idle_03.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "andando",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.2,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "w_walk_03.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "w_walk_02.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "w_walk_04.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "w_walk_01.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "pulando",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "w_jump_01.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "caindo",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "w_fall_01.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "shot",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "sprites/w_bot/w_shot_01.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "sprites/w_bot/w_shot_02.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "sprites/w_bot/w_shot_03.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "behaviors": []
         },
         {
           "height": 32,
@@ -1397,6 +3058,10 @@
             {
               "name": "direction",
               "value": "1"
+            },
+            {
+              "name": "dead",
+              "value": "1"
             }
           ],
           "behaviors": [
@@ -1427,7 +3092,7 @@
                   "timeBetweenFrames": 0.15,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "glob_w1.png",
                       "points": [],
                       "originPoint": {
@@ -1441,10 +3106,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 6
+                          },
+                          {
+                            "x": 57,
+                            "y": 3
+                          },
+                          {
+                            "x": 62,
+                            "y": 46
+                          },
+                          {
+                            "x": 14,
+                            "y": 48
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "glob_w3.png",
                       "points": [],
                       "originPoint": {
@@ -1458,10 +3142,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 6
+                          },
+                          {
+                            "x": 57,
+                            "y": 3
+                          },
+                          {
+                            "x": 62,
+                            "y": 46
+                          },
+                          {
+                            "x": 14,
+                            "y": 48
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "glob_w4.png",
                       "points": [],
                       "originPoint": {
@@ -1475,10 +3178,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 6
+                          },
+                          {
+                            "x": 57,
+                            "y": 3
+                          },
+                          {
+                            "x": 62,
+                            "y": 46
+                          },
+                          {
+                            "x": 14,
+                            "y": 48
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "glob_w2.png",
                       "points": [],
                       "originPoint": {
@@ -1492,7 +3214,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 6
+                          },
+                          {
+                            "x": 57,
+                            "y": 3
+                          },
+                          {
+                            "x": 62,
+                            "y": 46
+                          },
+                          {
+                            "x": 14,
+                            "y": 48
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -1507,7 +3248,7 @@
                   "timeBetweenFrames": 0.15,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "glob_d2.png",
                       "points": [],
                       "originPoint": {
@@ -1521,10 +3262,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 6
+                          },
+                          {
+                            "x": 57,
+                            "y": 3
+                          },
+                          {
+                            "x": 62,
+                            "y": 46
+                          },
+                          {
+                            "x": 14,
+                            "y": 48
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "glob_d3.png",
                       "points": [],
                       "originPoint": {
@@ -1538,10 +3298,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 6
+                          },
+                          {
+                            "x": 57,
+                            "y": 3
+                          },
+                          {
+                            "x": 62,
+                            "y": 46
+                          },
+                          {
+                            "x": 14,
+                            "y": 48
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "glob_d1.png",
                       "points": [],
                       "originPoint": {
@@ -1555,7 +3334,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 6
+                          },
+                          {
+                            "x": 57,
+                            "y": 3
+                          },
+                          {
+                            "x": 62,
+                            "y": 46
+                          },
+                          {
+                            "x": 14,
+                            "y": 48
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -1585,7 +3383,13 @@
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "extraBorder": 0,
+              "name": "DestroyOutside",
+              "type": "DestroyOutsideBehavior::DestroyOutside"
+            }
+          ],
           "animations": [
             {
               "name": "pixeland",
@@ -1680,7 +3484,13 @@
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "extraBorder": 0,
+              "name": "DestroyOutside",
+              "type": "DestroyOutsideBehavior::DestroyOutside"
+            }
+          ],
           "animations": [
             {
               "name": "shot",
@@ -1763,6 +3573,1291 @@
               ]
             }
           ]
+        },
+        {
+          "name": "scorpion",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "direction",
+              "value": "1"
+            },
+            {
+              "name": "dead",
+              "value": "1"
+            }
+          ],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 50,
+              "maxSpeed": 50,
+              "name": "PlatformerObject",
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.15,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/scorp19.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 31.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 9
+                          },
+                          {
+                            "x": 58.5,
+                            "y": 48
+                          },
+                          {
+                            "x": 16.5,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/scorp9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 31.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 9
+                          },
+                          {
+                            "x": 58.5,
+                            "y": 48
+                          },
+                          {
+                            "x": 16.5,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/scorp14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 31.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 9
+                          },
+                          {
+                            "x": 58.5,
+                            "y": 48
+                          },
+                          {
+                            "x": 16.5,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/scorp7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 31.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 9
+                          },
+                          {
+                            "x": 58.5,
+                            "y": 48
+                          },
+                          {
+                            "x": 16.5,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/scorp12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 31.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 9
+                          },
+                          {
+                            "x": 58.5,
+                            "y": 48
+                          },
+                          {
+                            "x": 16.5,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/scorp18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 31.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 9
+                          },
+                          {
+                            "x": 58.5,
+                            "y": 48
+                          },
+                          {
+                            "x": 16.5,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/scorp.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 31.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 9
+                          },
+                          {
+                            "x": 58.5,
+                            "y": 48
+                          },
+                          {
+                            "x": 16.5,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/scorp2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 31.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 9
+                          },
+                          {
+                            "x": 58.5,
+                            "y": 48
+                          },
+                          {
+                            "x": 16.5,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/scorp5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 31.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 9
+                          },
+                          {
+                            "x": 58.5,
+                            "y": 48
+                          },
+                          {
+                            "x": 16.5,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/scorp5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 31.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 9
+                          },
+                          {
+                            "x": 58.5,
+                            "y": 48
+                          },
+                          {
+                            "x": 16.5,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/scorp5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 31.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 9
+                          },
+                          {
+                            "x": 58.5,
+                            "y": 48
+                          },
+                          {
+                            "x": 16.5,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/scorp5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 31.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 9
+                          },
+                          {
+                            "x": 58.5,
+                            "y": 48
+                          },
+                          {
+                            "x": 16.5,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/scorp6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 31.5,
+                            "y": 17
+                          },
+                          {
+                            "x": 57.5,
+                            "y": 9
+                          },
+                          {
+                            "x": 58.5,
+                            "y": 48
+                          },
+                          {
+                            "x": 16.5,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "morto",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.15,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/enemy/scorpion/explosion1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/enemy/scorpion/explosion2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/enemy/scorpion/explosion3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/enemy/scorpion/explosion4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/enemy/scorpion/explosion5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/enemy/scorpion/explosion6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "planta",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "plat1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/plat1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 1
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 46
+                          },
+                          {
+                            "x": 8,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/plat1-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 1
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 46
+                          },
+                          {
+                            "x": 8,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/plat1-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 1
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 46
+                          },
+                          {
+                            "x": 8,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/plat1-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 1
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 46
+                          },
+                          {
+                            "x": 8,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/plat1-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 1
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 46
+                          },
+                          {
+                            "x": 8,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/plat1-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 1
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 46
+                          },
+                          {
+                            "x": 8,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/plat1-7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 1
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 46
+                          },
+                          {
+                            "x": 8,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/plat1-8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 1
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 46
+                          },
+                          {
+                            "x": 8,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/plat1-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 1
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 46
+                          },
+                          {
+                            "x": 8,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/plat1-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 1
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 46
+                          },
+                          {
+                            "x": 8,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/plat1-11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 1
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 46
+                          },
+                          {
+                            "x": 8,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/plat1-12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 1
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 46
+                          },
+                          {
+                            "x": 8,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/plat1-13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 1
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 46
+                          },
+                          {
+                            "x": 8,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/plat1-14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 1
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 46
+                          },
+                          {
+                            "x": 8,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/plat1-15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 1
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 46
+                          },
+                          {
+                            "x": 8,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/scorpion/plat1-16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 1
+                          },
+                          {
+                            "x": 29,
+                            "y": 3
+                          },
+                          {
+                            "x": 27,
+                            "y": 46
+                          },
+                          {
+                            "x": 8,
+                            "y": 46
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "height": 32,
+          "name": "backgtound",
+          "texture": "sprites/background/back_01.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "back2",
+          "texture": "sprites/background/back_02.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "head",
+          "texture": "sprites/gui/icon_life.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "life",
+          "texture": "sprites/gui/icon_med.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
         }
       ],
       "events": [
@@ -1833,7 +4928,18 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
           "actions": [
             {
               "type": {
@@ -1872,6 +4978,20 @@
               },
               "parameters": [
                 "NewObject"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "music/Героическая минорная.mp3",
+                "yes",
+                "10",
+                ""
               ],
               "subInstructions": []
             }
@@ -1949,12 +5069,27 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "hud"
         }
       ],
       "layers": [
         {
           "name": "background",
-          "visibility": true,
+          "visibility": false,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "name": "fore",
+          "visibility": false,
           "cameras": [],
           "effects": []
         },
@@ -1973,6 +5108,12 @@
               "width": 0
             }
           ],
+          "effects": []
+        },
+        {
+          "name": "gui",
+          "visibility": true,
+          "cameras": [],
           "effects": []
         }
       ],
@@ -2039,6 +5180,20 @@
                 "=",
                 "playerSprite.X()*0.25",
                 "\"background\"",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "CameraX"
+              },
+              "parameters": [
+                "",
+                "=",
+                "playerSprite.X()*0.5",
+                "\"fore\"",
                 ""
               ],
               "subInstructions": []
@@ -2441,6 +5596,270 @@
               "events": []
             }
           ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "playerSprite",
+                "jump",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::IsFalling"
+                      },
+                      "parameters": [
+                        "playerSprite",
+                        "PlatformerObject"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::IsJumping"
+                      },
+                      "parameters": [
+                        "playerSprite",
+                        "PlatformerObject"
+                      ],
+                      "subInstructions": []
+                    }
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "playerSprite",
+                    "jumpCount",
+                    "<",
+                    "2"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Space"
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::SetCanJump"
+                      },
+                      "parameters": [
+                        "playerSprite",
+                        "PlatformerObject"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "playerSprite",
+                        "jumpCount",
+                        "+",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "playerSprite",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "playerSprite",
+                    "jumpCount",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "playerSprite",
+                "enemy",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "0.5",
+                "\"vida\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "enemy",
+                "\"morto\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "playerSprite",
+                "\"hit\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "playerSprite",
+                "life",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "RemoveTimer"
+              },
+              "parameters": [
+                "",
+                "\"vida\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [],
+              "events": []
+            }
+          ]
         }
       ]
     },
@@ -2475,7 +5894,7 @@
                 "value": "VarObjet"
               },
               "parameters": [
-                "glob",
+                "enemy",
                 "direction",
                 "=",
                 "1"
@@ -2490,7 +5909,7 @@
                 "value": "PlatformBehavior::SimulateLeftKey"
               },
               "parameters": [
-                "glob",
+                "enemy",
                 "PlatformerObject"
               ],
               "subInstructions": []
@@ -2501,8 +5920,19 @@
                 "value": "FlipX"
               },
               "parameters": [
-                "enemy",
+                "glob",
                 "yes"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "scorpion",
+                "no"
               ],
               "subInstructions": []
             }
@@ -2520,7 +5950,7 @@
                 "value": "VarObjet"
               },
               "parameters": [
-                "glob",
+                "enemy",
                 "direction",
                 "=",
                 "0"
@@ -2535,7 +5965,7 @@
                 "value": "PlatformBehavior::SimulateRightKey"
               },
               "parameters": [
-                "glob",
+                "enemy",
                 "PlatformerObject"
               ],
               "subInstructions": []
@@ -2546,7 +5976,18 @@
                 "value": "FlipX"
               },
               "parameters": [
-                "enemy",
+                "scorpion",
+                "yes"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "glob",
                 "no"
               ],
               "subInstructions": []
@@ -2565,7 +6006,7 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "glob",
+                "enemy",
                 "dir",
                 "",
                 ""
@@ -2580,7 +6021,7 @@
                 "value": "ModVarObjet"
               },
               "parameters": [
-                "glob",
+                "enemy",
                 "direction",
                 "=",
                 "0"
@@ -2602,7 +6043,7 @@
               },
               "parameters": [
                 "left",
-                "glob",
+                "enemy",
                 "=",
                 "0"
               ],
@@ -2616,7 +6057,7 @@
                 "value": "ModVarObjet"
               },
               "parameters": [
-                "glob",
+                "enemy",
                 "direction",
                 "=",
                 "1"
@@ -2649,26 +6090,23 @@
             {
               "type": {
                 "inverted": false,
-                "value": "CollisionNP"
+                "value": "Timer"
               },
               "parameters": [
-                "NewObject",
-                "glob",
                 "",
-                "",
-                ""
+                "1",
+                "\"teste\""
               ],
               "subInstructions": []
             },
             {
               "type": {
-                "inverted": false,
-                "value": "Timer"
+                "inverted": true,
+                "value": "AnimationName"
               },
               "parameters": [
-                "",
-                "2",
-                "\"teste\""
+                "enemy",
+                "\"morto\""
               ],
               "subInstructions": []
             }
@@ -2709,17 +6147,6 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "RemoveTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"teste\""
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
                     "value": "AddForceXY"
                   },
                   "parameters": [
@@ -2727,6 +6154,17 @@
                     "170",
                     "",
                     "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "RemoveTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"teste\""
                   ],
                   "subInstructions": []
                 }
@@ -2767,17 +6205,6 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "RemoveTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"teste\""
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
                     "value": "AddForceXY"
                   },
                   "parameters": [
@@ -2787,11 +6214,425 @@
                     "1"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "RemoveTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"teste\""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
             }
           ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "shot",
+                "enemy",
+                "\"teste15\"",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "enemy",
+                "\"morto\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "enemy",
+                "PlatformerObject",
+                "no"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "shot",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "enemy",
+                "\"morto\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "0.5",
+                "\"morte\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "enemy",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "RemoveTimer"
+              },
+              "parameters": [
+                "",
+                "\"morte\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ]
+    },
+    {
+      "associatedLayout": "Main",
+      "lastChangeTimeStamp": 0,
+      "name": "hud",
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "vida",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "playerSprite",
+                "life",
+                ">",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "playerSprite",
+                    "life",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TiledSpriteObject::Width"
+                  },
+                  "parameters": [
+                    "life",
+                    "=",
+                    "32"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "playerSprite",
+                    "life",
+                    "=",
+                    "2"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TiledSpriteObject::Width"
+                  },
+                  "parameters": [
+                    "life",
+                    "=",
+                    "64"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "playerSprite",
+                    "life",
+                    "=",
+                    "3"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TiledSpriteObject::Width"
+                  },
+                  "parameters": [
+                    "life",
+                    "=",
+                    "96"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "playerSprite",
+                    "life",
+                    "=",
+                    "4"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TiledSpriteObject::Width"
+                  },
+                  "parameters": [
+                    "life",
+                    "=",
+                    "128"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "playerSprite",
+                    "life",
+                    "=",
+                    "5"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TiledSpriteObject::Width"
+                  },
+                  "parameters": [
+                    "life",
+                    "=",
+                    "160"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "playerSprite",
+                "life",
+                ">",
+                "5"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "playerSprite",
+                "jump",
+                "=",
+                "5"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "playerSprite",
+                "life",
+                "<=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Main\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ]
     }
