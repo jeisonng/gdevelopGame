@@ -1137,6 +1137,493 @@
         "name": "sprites/w_bot/w_dead_01.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/alien/alien3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/alien/alien3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/alien/alien.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/alien/alien.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/alien/alien2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/alien/alien2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-3-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-4-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-4-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-5-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-5-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-6-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-6-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-7-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-7-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-8-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-8-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-9-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-9-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-10-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-10-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-11-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-11-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino8-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino8-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino8-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino8-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino8-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino8-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino8-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino8-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino8-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino8-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino8-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino8-6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-5-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-5-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-2-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-3-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/enemy/mino/mino-4-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/enemy/mino/mino-4-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/itens/shots/explo3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/itens/shots/explo3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/itens/shots/explo4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/itens/shots/explo4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/itens/shots/explo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/itens/shots/explo.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/itens/shots/explo2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites/itens/shots/explo2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "sprites/sons/hit.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sprites/sons/hit.wav",
+        "userAdded": true
+      },
+      {
+        "file": "sprites/sons/Blip_Select2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sprites/sons/Blip_Select2.wav",
+        "userAdded": true
+      },
+      {
+        "file": "sprites/sons/Laser_Shoot.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sprites/sons/Laser_Shoot.wav",
+        "userAdded": true
+      },
+      {
+        "file": "sprites/sons/Explosion2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sprites/sons/Explosion2.wav",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1169,7 +1656,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1.114
+        "zoomFactor": 0.418
       },
       "objectsGroups": [
         {
@@ -1180,6 +1667,17 @@
             },
             {
               "name": "scorpion"
+            },
+            {
+              "name": "alien"
+            }
+          ]
+        },
+        {
+          "name": "boss",
+          "objects": [
+            {
+              "name": "mino"
             }
           ]
         }
@@ -1553,7 +2051,7 @@
           "layer": "",
           "locked": false,
           "name": "plataform3",
-          "width": 8967,
+          "width": 8986,
           "x": 3337,
           "y": 305,
           "zOrder": 8,
@@ -2223,14 +2721,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 108,
           "layer": "",
           "locked": false,
           "name": "planta",
-          "width": 0,
-          "x": 3475,
-          "y": 257,
+          "width": 69,
+          "x": 3451,
+          "y": 227,
           "zOrder": 78,
           "numberProperties": [],
           "stringProperties": [],
@@ -2238,14 +2736,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 109,
           "layer": "",
           "locked": false,
           "name": "planta",
-          "width": 0,
-          "x": 4566,
-          "y": 175,
+          "width": 51,
+          "x": 4377,
+          "y": 224,
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
@@ -2268,14 +2766,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 105,
           "layer": "",
           "locked": false,
           "name": "planta",
-          "width": 0,
-          "x": 5817,
-          "y": 53,
+          "width": 56,
+          "x": 5786,
+          "y": 24,
           "zOrder": 81,
           "numberProperties": [],
           "stringProperties": [],
@@ -2283,14 +2781,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 111,
           "layer": "",
           "locked": false,
           "name": "planta",
-          "width": 0,
-          "x": 7531,
-          "y": 258,
+          "width": 58,
+          "x": 7503,
+          "y": 224,
           "zOrder": 82,
           "numberProperties": [],
           "stringProperties": [],
@@ -2367,6 +2865,96 @@
           "x": 68,
           "y": 23,
           "zOrder": 94,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "alien",
+          "width": 0,
+          "x": 7096,
+          "y": 246,
+          "zOrder": 95,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 107,
+          "layer": "",
+          "locked": false,
+          "name": "plataform2",
+          "width": 127,
+          "x": 7714.48,
+          "y": 230.42,
+          "zOrder": 96,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform3",
+          "width": 127,
+          "x": 7714,
+          "y": 202,
+          "zOrder": 97,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform3",
+          "width": 553,
+          "x": 8335,
+          "y": 130,
+          "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 179,
+          "layer": "",
+          "locked": false,
+          "name": "trasnpasedTile",
+          "width": 552,
+          "x": 8336,
+          "y": 157,
+          "zOrder": 100,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "mino",
+          "width": 0,
+          "x": 11139,
+          "y": 236,
+          "zOrder": 103,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3417,20 +4005,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": -4.5,
-                            "y": -6
+                            "x": 8.5,
+                            "y": 7
                           },
                           {
-                            "x": 27.5,
-                            "y": -6
+                            "x": 16.5,
+                            "y": 9
                           },
                           {
-                            "x": 27.5,
-                            "y": 26
+                            "x": 17.5,
+                            "y": 16
                           },
                           {
-                            "x": -4.5,
-                            "y": 26
+                            "x": 8.5,
+                            "y": 17
                           }
                         ]
                       ]
@@ -3554,6 +4142,137 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "sprites/itens/shots/shot_green_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/itens/shots/explo4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/itens/shots/explo3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/itens/shots/explo2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/itens/shots/explo.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/itens/shots/explo2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/itens/shots/explo3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/itens/shots/explo4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4248,12 +4967,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 1
+                            "x": 10,
+                            "y": 11
                           },
                           {
                             "x": 29,
-                            "y": 3
+                            "y": 18
                           },
                           {
                             "x": 27,
@@ -4284,12 +5003,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 1
+                            "x": 10,
+                            "y": 11
                           },
                           {
                             "x": 29,
-                            "y": 3
+                            "y": 18
                           },
                           {
                             "x": 27,
@@ -4320,12 +5039,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 1
+                            "x": 10,
+                            "y": 11
                           },
                           {
                             "x": 29,
-                            "y": 3
+                            "y": 18
                           },
                           {
                             "x": 27,
@@ -4356,12 +5075,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 1
+                            "x": 10,
+                            "y": 11
                           },
                           {
                             "x": 29,
-                            "y": 3
+                            "y": 18
                           },
                           {
                             "x": 27,
@@ -4392,12 +5111,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 1
+                            "x": 10,
+                            "y": 11
                           },
                           {
                             "x": 29,
-                            "y": 3
+                            "y": 18
                           },
                           {
                             "x": 27,
@@ -4428,12 +5147,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 1
+                            "x": 10,
+                            "y": 11
                           },
                           {
                             "x": 29,
-                            "y": 3
+                            "y": 18
                           },
                           {
                             "x": 27,
@@ -4464,12 +5183,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 1
+                            "x": 10,
+                            "y": 11
                           },
                           {
                             "x": 29,
-                            "y": 3
+                            "y": 18
                           },
                           {
                             "x": 27,
@@ -4500,12 +5219,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 1
+                            "x": 10,
+                            "y": 11
                           },
                           {
                             "x": 29,
-                            "y": 3
+                            "y": 18
                           },
                           {
                             "x": 27,
@@ -4536,12 +5255,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 1
+                            "x": 10,
+                            "y": 11
                           },
                           {
                             "x": 29,
-                            "y": 3
+                            "y": 18
                           },
                           {
                             "x": 27,
@@ -4572,12 +5291,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 1
+                            "x": 10,
+                            "y": 11
                           },
                           {
                             "x": 29,
-                            "y": 3
+                            "y": 18
                           },
                           {
                             "x": 27,
@@ -4608,12 +5327,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 1
+                            "x": 10,
+                            "y": 11
                           },
                           {
                             "x": 29,
-                            "y": 3
+                            "y": 18
                           },
                           {
                             "x": 27,
@@ -4644,12 +5363,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 1
+                            "x": 10,
+                            "y": 11
                           },
                           {
                             "x": 29,
-                            "y": 3
+                            "y": 18
                           },
                           {
                             "x": 27,
@@ -4680,12 +5399,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 1
+                            "x": 10,
+                            "y": 11
                           },
                           {
                             "x": 29,
-                            "y": 3
+                            "y": 18
                           },
                           {
                             "x": 27,
@@ -4716,12 +5435,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 1
+                            "x": 10,
+                            "y": 11
                           },
                           {
                             "x": 29,
-                            "y": 3
+                            "y": 18
                           },
                           {
                             "x": 27,
@@ -4752,12 +5471,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 1
+                            "x": 10,
+                            "y": 11
                           },
                           {
                             "x": 29,
-                            "y": 3
+                            "y": 18
                           },
                           {
                             "x": 27,
@@ -4788,12 +5507,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 6,
-                            "y": 1
+                            "x": 10,
+                            "y": 11
                           },
                           {
                             "x": 29,
-                            "y": 3
+                            "y": 18
                           },
                           {
                             "x": 27,
@@ -4858,6 +5577,703 @@
           "width": 32,
           "variables": [],
           "behaviors": []
+        },
+        {
+          "name": "alien",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "direction",
+              "value": "1"
+            },
+            {
+              "name": "dead",
+              "value": "1"
+            }
+          ],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 150,
+              "name": "PlatformerObject",
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.195,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/alien/alien3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 38,
+                            "y": 6
+                          },
+                          {
+                            "x": 36,
+                            "y": 55
+                          },
+                          {
+                            "x": 11,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/alien/alien.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 38,
+                            "y": 6
+                          },
+                          {
+                            "x": 36,
+                            "y": 55
+                          },
+                          {
+                            "x": 11,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/alien/alien2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 9
+                          },
+                          {
+                            "x": 38,
+                            "y": 6
+                          },
+                          {
+                            "x": 36,
+                            "y": 55
+                          },
+                          {
+                            "x": 11,
+                            "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "morto",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/enemy/scorpion/explosion1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/enemy/scorpion/explosion2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/enemy/scorpion/explosion3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/enemy/scorpion/explosion4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/enemy/scorpion/explosion6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites/enemy/scorpion/explosion5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "height": 32,
+          "name": "trasnpasedTile",
+          "texture": "sprites/tiles/tile_05.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "name": "mino",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "direction",
+              "value": "1"
+            },
+            {
+              "name": "dead",
+              "value": "15"
+            }
+          ],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 100,
+              "name": "PlatformerObject",
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "mino",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/mino/mino-1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 20
+                          },
+                          {
+                            "x": 68,
+                            "y": 47
+                          },
+                          {
+                            "x": 49,
+                            "y": 69
+                          },
+                          {
+                            "x": 12,
+                            "y": 70
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/mino/mino-2-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 20
+                          },
+                          {
+                            "x": 68,
+                            "y": 47
+                          },
+                          {
+                            "x": 49,
+                            "y": 69
+                          },
+                          {
+                            "x": 12,
+                            "y": 70
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/mino/mino-3-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 20
+                          },
+                          {
+                            "x": 68,
+                            "y": 47
+                          },
+                          {
+                            "x": 49,
+                            "y": 69
+                          },
+                          {
+                            "x": 12,
+                            "y": 70
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/mino/mino-4-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 20
+                          },
+                          {
+                            "x": 68,
+                            "y": 47
+                          },
+                          {
+                            "x": 49,
+                            "y": 69
+                          },
+                          {
+                            "x": 12,
+                            "y": 70
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "mino8",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/mino/mino8-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 41,
+                            "y": 27
+                          },
+                          {
+                            "x": 80,
+                            "y": 47
+                          },
+                          {
+                            "x": 86,
+                            "y": 72
+                          },
+                          {
+                            "x": 25,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/mino/mino8-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 41,
+                            "y": 27
+                          },
+                          {
+                            "x": 80,
+                            "y": 47
+                          },
+                          {
+                            "x": 86,
+                            "y": 72
+                          },
+                          {
+                            "x": 25,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/mino/mino8-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 41,
+                            "y": 27
+                          },
+                          {
+                            "x": 80,
+                            "y": 47
+                          },
+                          {
+                            "x": 86,
+                            "y": 72
+                          },
+                          {
+                            "x": 25,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/mino/mino8-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 41,
+                            "y": 27
+                          },
+                          {
+                            "x": 80,
+                            "y": 47
+                          },
+                          {
+                            "x": 86,
+                            "y": 72
+                          },
+                          {
+                            "x": 25,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/mino/mino8-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 41,
+                            "y": 27
+                          },
+                          {
+                            "x": 80,
+                            "y": 47
+                          },
+                          {
+                            "x": 86,
+                            "y": 72
+                          },
+                          {
+                            "x": 25,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "sprites/enemy/mino/mino8-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 41,
+                            "y": 27
+                          },
+                          {
+                            "x": 80,
+                            "y": 47
+                          },
+                          {
+                            "x": 86,
+                            "y": 72
+                          },
+                          {
+                            "x": 25,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -4994,6 +6410,21 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "AdMob::LoadBanner"
+              },
+              "parameters": [
+                "\"baan\"",
+                "\"baan\"",
+                "",
+                "yes",
+                "yes",
+                "yes"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -5083,13 +6514,13 @@
       "layers": [
         {
           "name": "background",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         },
         {
           "name": "fore",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         },
@@ -5452,6 +6883,20 @@
               "parameters": [
                 "playerSprite",
                 "\"shot\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sprites/sons/Laser_Shoot.wav",
+                "",
+                "50",
+                ""
               ],
               "subInstructions": []
             }
@@ -5828,6 +7273,20 @@
             {
               "type": {
                 "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sprites/sons/hit.wav",
+                "",
+                "50",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
                 "value": "ModVarObjet"
               },
               "parameters": [
@@ -5850,16 +7309,169 @@
               "subInstructions": []
             }
           ],
-          "events": [
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
             {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [],
-              "events": []
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "playerSprite",
+                "trasnpasedTile",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
-          ]
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "trasnpasedTile"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "playerSprite",
+                "trasnpasedTile",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "trasnpasedTile",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "playerSprite",
+                    "gosme",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "playerSprite",
+                    "planta",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "playerSprite",
+                "life",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sprites/sons/hit.wav",
+                "",
+                "50",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "playerSprite",
+                "\"hit\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ]
     },
@@ -5882,6 +7494,243 @@
           },
           "comment": "",
           "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "boss",
+                    "direction",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::SimulateLeftKey"
+                  },
+                  "parameters": [
+                    "boss",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "mino",
+                    "yes"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "boss",
+                    "direction",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::SimulateRightKey"
+                  },
+                  "parameters": [
+                    "boss",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "mino",
+                    "no"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "boss",
+                    "direction",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Timer"
+                      },
+                      "parameters": [
+                        "",
+                        "2",
+                        "\"mexe\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "boss",
+                        "direction",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "RemoveTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"mexe\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "boss",
+                    "direction",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Timer"
+                      },
+                      "parameters": [
+                        "",
+                        "2",
+                        "\"mexe2\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "boss",
+                        "direction",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "RemoveTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"mexe2\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            }
+          ]
         },
         {
           "disabled": false,
@@ -5933,6 +7782,17 @@
               "parameters": [
                 "scorpion",
                 "no"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "alien",
+                "yes"
               ],
               "subInstructions": []
             }
@@ -5988,6 +7848,17 @@
               },
               "parameters": [
                 "glob",
+                "no"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "alien",
                 "no"
               ],
               "subInstructions": []
@@ -6255,11 +8126,47 @@
             {
               "type": {
                 "inverted": false,
+                "value": "Arreter"
+              },
+              "parameters": [
+                "shot"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sprites/sons/hit.wav",
+                "",
+                "50",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
                 "value": "SetAnimationName"
               },
               "parameters": [
                 "enemy",
                 "\"morto\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "shot",
+                "=",
+                "1"
               ],
               "subInstructions": []
             },
@@ -6274,14 +8181,84 @@
                 "no"
               ],
               "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "shot",
+                "boss",
+                "\"teste15\"",
+                "",
+                ""
+              ],
+              "subInstructions": []
             },
             {
               "type": {
                 "inverted": false,
-                "value": "Delete"
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
               },
               "parameters": [
                 "shot",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "boss",
+                "dead",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Arreter"
+              },
+              "parameters": [
+                "shot"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sprites/sons/Explosion2.wav",
+                "",
+                "50",
                 ""
               ],
               "subInstructions": []
@@ -6342,6 +8319,112 @@
               "subInstructions": []
             }
           ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "boss",
+                "dead",
+                "<=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "boss",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": ""
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Animation"
+              },
+              "parameters": [
+                "shot",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "0.5\n",
+                "\"shotDead\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "shot",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "RemoveTimer"
+              },
+              "parameters": [
+                "",
+                "\"shotDead\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
           "events": []
         }
       ]
