@@ -2897,7 +2897,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 1.762
+        "zoomFactor": 1.114
       },
       "objectsGroups": [
         {
@@ -8308,7 +8308,7 @@
                 "",
                 "music/Героическая минорная.mp3",
                 "yes",
-                "10",
+                "100",
                 ""
               ],
               "subInstructions": []
@@ -8416,13 +8416,13 @@
       "layers": [
         {
           "name": "background",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         },
         {
           "name": "fore",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         },
