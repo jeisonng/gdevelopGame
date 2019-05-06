@@ -2075,6 +2075,78 @@
         "metadata": "",
         "name": "music\\life.wav",
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/itens/shots/shot1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites\\itens\\shots\\shot1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/itens/shots/shot2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites\\itens\\shots\\shot2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/itens/shots/shot3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites\\itens\\shots\\shot3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/itens/shots/shot4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites\\itens\\shots\\shot4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/itens/shots/pixeland-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites\\itens\\shots\\pixeland-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/itens/shots/pixeland-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites\\itens\\shots\\pixeland-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/itens/shots/pixeland-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites\\itens\\shots\\pixeland-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/itens/shots/pixeland-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites\\itens\\shots\\pixeland-4.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5427,11 +5499,11 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.205,
+                  "timeBetweenFrames": 0.195,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "sprites\\enemy\\scorpion\\orb_of_destruction1.png",
+                      "image": "sprites\\itens\\shots\\pixeland-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5448,7 +5520,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "sprites\\enemy\\scorpion\\orb_of_destruction2.png",
+                      "image": "sprites\\itens\\shots\\pixeland-2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5465,7 +5537,24 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "sprites\\enemy\\scorpion\\orb_of_destruction3.png",
+                      "image": "sprites\\itens\\shots\\pixeland-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprites\\itens\\shots\\pixeland-4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
