@@ -2045,6 +2045,36 @@
         "name": "sprites\\itens\\energy\\PNG\\bolt-icon-button-brown-1.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprites/w_bot/w_jump_02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprites\\w_bot\\w_jump_02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "music/Blip_Select2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "music\\Blip_Select2.wav",
+        "userAdded": true
+      },
+      {
+        "file": "music/hit.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "music\\hit.wav",
+        "userAdded": true
+      },
+      {
+        "file": "music/life.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "music\\life.wav",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2701,6 +2731,35 @@
               ]
             }
           ]
+        },
+        {
+          "name": "win",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "sprites\\w_bot\\w_jump_02.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -3014,7 +3073,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.826
+        "zoomFactor": 0.85
       },
       "objectsGroups": [
         {
@@ -4664,21 +4723,6 @@
           "locked": false,
           "name": "energy",
           "width": 27,
-          "x": 6691,
-          "y": 252,
-          "zOrder": 125,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 25,
-          "layer": "",
-          "locked": false,
-          "name": "energy",
-          "width": 27,
           "x": 7764,
           "y": 132,
           "zOrder": 125,
@@ -4837,6 +4881,66 @@
           "x": 12238,
           "y": 268,
           "zOrder": 133,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform5",
+          "width": 63,
+          "x": 11698,
+          "y": 185,
+          "zOrder": 134,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform5",
+          "width": 64,
+          "x": 12042,
+          "y": 184,
+          "zOrder": 135,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 366,
+          "layer": "",
+          "locked": false,
+          "name": "plataform4",
+          "width": 672,
+          "x": 12321,
+          "y": -3,
+          "zOrder": 136,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "mediumEnergy",
+          "width": 0,
+          "x": 6688,
+          "y": 230,
+          "zOrder": 137,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8404,7 +8508,7 @@
           "updateIfNotVisible": false,
           "variables": [
             {
-              "name": "direction",
+              "name": "directionBoss",
               "value": "1"
             },
             {
@@ -9045,6 +9149,24 @@
               ]
             }
           ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "win",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "YOU WIN",
+          "font": "sprites/font/PressStart2P-Regular.ttf",
+          "characterSize": 30,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
         }
       ],
       "events": [
@@ -9416,6 +9538,20 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "music\\Blip_Select2.wav",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -9481,6 +9617,20 @@
               },
               "parameters": [
                 "energy",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "music\\Blip_Select2.wav",
+                "",
+                "",
                 ""
               ],
               "subInstructions": []
@@ -9549,6 +9699,20 @@
               },
               "parameters": [
                 "fulEnergy",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "music\\Blip_Select2.wav",
+                "",
+                "",
                 ""
               ],
               "subInstructions": []
@@ -9663,44 +9827,6 @@
                 "=",
                 "playerSprite.X()*0.5",
                 "\"fore\"",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "playerSprite",
-                "blocker",
-                "",
-                "",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "CameraX"
-              },
-              "parameters": [
-                "",
-                "=",
-                "blocker.X()",
-                "\"\"",
                 ""
               ],
               "subInstructions": []
@@ -10333,20 +10459,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "playerSprite",
-                "enemy",
-                "",
-                "",
-                ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "Timer"
               },
               "parameters": [
@@ -10366,6 +10478,56 @@
                 "\"morto\""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "playerSprite",
+                    "enemy",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "playerSprite",
+                    "boss",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "playerSprite",
+                "invecible",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
             }
           ],
           "actions": [
@@ -10377,20 +10539,6 @@
               "parameters": [
                 "playerSprite",
                 "\"hit\""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "sprites/sons/hit.wav",
-                "",
-                "50",
-                ""
               ],
               "subInstructions": []
             },
@@ -10415,6 +10563,20 @@
               "parameters": [
                 "",
                 "\"vida\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "music\\hit.wav",
+                "",
+                "80\n",
+                ""
               ],
               "subInstructions": []
             }
@@ -10539,6 +10701,19 @@
               },
               "parameters": [],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "playerSprite",
+                "invecible",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
             }
           ],
           "actions": [
@@ -10562,9 +10737,9 @@
               },
               "parameters": [
                 "",
-                "sprites/sons/hit.wav",
+                "music\\hit.wav",
                 "",
-                "50",
+                "80\n",
                 ""
               ],
               "subInstructions": []
@@ -10631,20 +10806,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "sprites/sons/hit.wav",
-                "",
-                "50",
-                ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "ModVarObjet"
               },
               "parameters": [
@@ -10665,6 +10826,20 @@
                 "invecible",
                 "+",
                 "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "music\\hit.wav",
+                "",
+                "80\n",
+                ""
               ],
               "subInstructions": []
             }
@@ -10846,6 +11021,20 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "music\\life.wav",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -10891,7 +11080,7 @@
                   },
                   "parameters": [
                     "boss",
-                    "direction",
+                    "directionBoss",
                     "=",
                     "1"
                   ],
@@ -10936,7 +11125,7 @@
                   },
                   "parameters": [
                     "boss",
-                    "direction",
+                    "directionBoss",
                     "=",
                     "0"
                   ],
@@ -10968,144 +11157,6 @@
                 }
               ],
               "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "boss",
-                    "direction",
-                    "=",
-                    "1"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [],
-              "events": [
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Timer"
-                      },
-                      "parameters": [
-                        "",
-                        "2",
-                        "\"mexe\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ModVarObjet"
-                      },
-                      "parameters": [
-                        "boss",
-                        "direction",
-                        "=",
-                        "0"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "RemoveTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"mexe\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "events": []
-                }
-              ]
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "boss",
-                    "direction",
-                    "=",
-                    "0"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [],
-              "events": [
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Timer"
-                      },
-                      "parameters": [
-                        "",
-                        "2",
-                        "\"mexe2\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ModVarObjet"
-                      },
-                      "parameters": [
-                        "boss",
-                        "direction",
-                        "=",
-                        "1"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "RemoveTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"mexe2\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "events": []
-                }
-              ]
             }
           ]
         },
@@ -11471,6 +11522,80 @@
               "parameters": [
                 "enemy",
                 "direction",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "GosmeBoss",
+                "dir",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "boss",
+                "directionBoss",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "GosmeBoss",
+                "left",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "boss",
+                "directionBoss",
                 "=",
                 "1"
               ],
@@ -11921,9 +12046,52 @@
             {
               "type": {
                 "inverted": false,
-                "value": ""
+                "value": "ActivateBehavior"
               },
-              "parameters": [],
+              "parameters": [
+                "playerSprite",
+                "PlatformerObject",
+                "no"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "playerSprite",
+                "=",
+                "7"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "win",
+                "180\n",
+                "120",
+                "\"gui\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "playerSprite",
+                "invecible",
+                "=",
+                "1"
+              ],
               "subInstructions": []
             }
           ],
@@ -12169,7 +12337,7 @@
                 "GosmeBoss",
                 "PlatformerObject",
                 "+",
-                "20"
+                "50"
               ],
               "subInstructions": []
             }
@@ -12262,7 +12430,21 @@
                 "GosmeBoss",
                 "PlatformerObject",
                 "+",
-                "20"
+                "50"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "moreLife",
+                "GosmeBoss.X()",
+                "GosmeBoss.Y()",
+                ""
               ],
               "subInstructions": []
             }

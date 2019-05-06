@@ -3014,7 +3014,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.826
+        "zoomFactor": 0.442
       },
       "objectsGroups": [
         {
@@ -4837,6 +4837,51 @@
           "x": 12238,
           "y": 268,
           "zOrder": 133,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform5",
+          "width": 63,
+          "x": 11698,
+          "y": 185,
+          "zOrder": 134,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "plataform5",
+          "width": 64,
+          "x": 12042,
+          "y": 184,
+          "zOrder": 135,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 366,
+          "layer": "",
+          "locked": false,
+          "name": "plataform4",
+          "width": 672,
+          "x": 12321,
+          "y": -3,
+          "zOrder": 136,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8404,7 +8449,7 @@
           "updateIfNotVisible": false,
           "variables": [
             {
-              "name": "direction",
+              "name": "directionBoss",
               "value": "1"
             },
             {
@@ -10891,7 +10936,7 @@
                   },
                   "parameters": [
                     "boss",
-                    "direction",
+                    "directionBoss",
                     "=",
                     "1"
                   ],
@@ -10936,7 +10981,7 @@
                   },
                   "parameters": [
                     "boss",
-                    "direction",
+                    "directionBoss",
                     "=",
                     "0"
                   ],
@@ -10968,144 +11013,6 @@
                 }
               ],
               "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "boss",
-                    "direction",
-                    "=",
-                    "1"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [],
-              "events": [
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Timer"
-                      },
-                      "parameters": [
-                        "",
-                        "2",
-                        "\"mexe\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ModVarObjet"
-                      },
-                      "parameters": [
-                        "boss",
-                        "direction",
-                        "=",
-                        "0"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "RemoveTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"mexe\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "events": []
-                }
-              ]
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "boss",
-                    "direction",
-                    "=",
-                    "0"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [],
-              "events": [
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Timer"
-                      },
-                      "parameters": [
-                        "",
-                        "2",
-                        "\"mexe2\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ModVarObjet"
-                      },
-                      "parameters": [
-                        "boss",
-                        "direction",
-                        "=",
-                        "1"
-                      ],
-                      "subInstructions": []
-                    },
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "RemoveTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"mexe2\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "events": []
-                }
-              ]
             }
           ]
         },
@@ -11471,6 +11378,80 @@
               "parameters": [
                 "enemy",
                 "direction",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "GosmeBoss",
+                "dir",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "boss",
+                "directionBoss",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "GosmeBoss",
+                "left",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "boss",
+                "directionBoss",
                 "=",
                 "1"
               ],
@@ -12169,7 +12150,7 @@
                 "GosmeBoss",
                 "PlatformerObject",
                 "+",
-                "20"
+                "50"
               ],
               "subInstructions": []
             }
@@ -12262,7 +12243,21 @@
                 "GosmeBoss",
                 "PlatformerObject",
                 "+",
-                "20"
+                "50"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "moreLife",
+                "GosmeBoss.X()",
+                "GosmeBoss.Y()",
+                ""
               ],
               "subInstructions": []
             }
